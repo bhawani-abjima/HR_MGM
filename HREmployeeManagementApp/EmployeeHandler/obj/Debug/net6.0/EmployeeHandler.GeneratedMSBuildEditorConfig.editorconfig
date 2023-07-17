@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EmployeeHandler
+build_property.RootNamespace = EmployeeHandler
+build_property.ProjectDir = C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\EmployeeHandler\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\EmployeeHandler
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AdminDashboard/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AdminDashboard/_PendingLeaveRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcX1BlbmRpbmdMZWF2ZVJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AdminDashboard/_PendingRegularizationRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5EYXNoYm9hcmRcX1BlbmRpbmdSZWd1bGFyaXphdGlvblJlcXVlc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendanceAdmin/CheckLeaveRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUFkbWluXENoZWNrTGVhdmVSZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendanceAdmin/CheckRegularizationRequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUFkbWluXENoZWNrUmVndWxhcml6YXRpb25SZXF1ZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendanceAdmin/EmployeeAttendanceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUFkbWluXEVtcGxveWVlQXR0ZW5kYW5jZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendanceAdmin/LeaveRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUFkbWluXExlYXZlUmVjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendanceAdmin/RegularizationRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZUFkbWluXFJlZ3VsYXJpemF0aW9uUmVjb3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendancePersonal/AttendanceDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVBlcnNvbmFsXEF0dGVuZGFuY2VEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendancePersonal/Leave.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVBlcnNvbmFsXExlYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/AttendancePersonal/RegularizationForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0ZW5kYW5jZVBlcnNvbmFsXFJlZ3VsYXJpemF0aW9uRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/EmployeeAdmin/EmployeeDetailsUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBZG1pblxFbXBsb3llZURldGFpbHNVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/EmployeeAdmin/EmployeeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVBZG1pblxFbXBsb3llZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/EmployeePersonal/EmployeeRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQZXJzb25hbFxFbXBsb3llZVJlZ2lzdHJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/EmployeePersonal/GetPersonalDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQZXJzb25hbFxHZXRQZXJzb25hbERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/EmployeePersonal/SignUpCredentials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQZXJzb25hbFxTaWduVXBDcmVkZW50aWFscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/EmployeePersonal/_UpdatesLeaveRequestRecord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVQZXJzb25hbFxfVXBkYXRlc0xlYXZlUmVxdWVzdFJlY29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Home/ApplicantRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcHBsaWNhbnRSZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Login/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BhawaniSingh/Documents/GitHub/HR_MGM/HREmployeeManagementApp/EmployeeHandler/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1ndc4z4zbx

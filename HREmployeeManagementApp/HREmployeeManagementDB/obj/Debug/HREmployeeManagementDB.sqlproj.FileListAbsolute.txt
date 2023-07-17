@@ -1,0 +1,6 @@
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\HREmployeeManagementDB\bin\Debug\HREmployeeManagementDB.dacpac
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\HREmployeeManagementDB\bin\Debug\HREmployeeManagementDB.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\HREmployeeManagementDB\bin\Debug\HREmployeeManagementDB.pdb
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\HREmployeeManagementDB\obj\Debug\HREmployeeManagementDB.sqlproj.AssemblyReference.cache
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\HREmployeeManagementDB\obj\Debug\HREmployeeManagementDB.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\HREmployeeManagementDB\obj\Debug\HREmployeeManagementDB.pdb

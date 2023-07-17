@@ -1,0 +1,17 @@
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.Application.deps.json
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.Application.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.Application.pdb
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.Entities.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.ViewModel.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.Entities.pdb
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\bin\Debug\net6.0\Management.ViewModel.pdb
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.csproj.AssemblyReference.cache
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.AssemblyInfoInputs.cache
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.AssemblyInfo.cs
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.csproj.CoreCompileInputs.cache
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.csproj.CopyComplete
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\refint\Management.Application.dll
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\Management.Application.pdb
+C:\Users\BhawaniSingh\Documents\GitHub\HR_MGM\HREmployeeManagementApp\Management.Application\obj\Debug\net6.0\ref\Management.Application.dll

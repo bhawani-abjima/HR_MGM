@@ -1,0 +1,60 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Admin] (Table)
+       [dbo].[AdminRegistration] (Table)
+       [dbo].[Attendance] (Table)
+       [dbo].[Employee] (Table)
+       [dbo].[LeaveRecord] (Table)
+       [dbo].[Registration] (Table)
+       [dbo].[RegularizationRecord] (Table)
+       [dbo].[DF_Admin] (Default Constraint)
+       [dbo].[DF_AdminT] (Default Constraint)
+       [dbo].[DF_Attendance_Date] (Default Constraint)
+       [dbo].[DEFAULT_Attendance_CheckOut] (Default Constraint)
+       [dbo].[DF_Employee_Join] (Default Constraint)
+       [dbo].[DF_Employee_Modify] (Default Constraint)
+       [dbo].[DF_Employee_Leave] (Default Constraint)
+       [dbo].[DF_LeaveRecord_DateOfRequest] (Default Constraint)
+       [dbo].[DF_RegularizationRecord_DateOfRequest] (Default Constraint)
+       [dbo].[FK_Admin_Employee] (Foreign Key)
+       [dbo].[FK_Attendance_Employee] (Foreign Key)
+       [dbo].[FK_LeaveRecord_Employee] (Foreign Key)
+       [dbo].[FK_RegularizationRecord_Attendance] (Foreign Key)
+       [dbo].[FK_RegularizationRecord_Employee] (Foreign Key)
+       [dbo].[PopulateAdminOnInsert] (Trigger)
+       [dbo].[PopulateAdminOnUpdate] (Trigger)
+       [dbo].[ChangeAttendanceOnUpdate] (Trigger)
+       [dbo].[RegularizeAttendanceOnUpdate] (Trigger)
+       [dbo].[EmployeeLogin] (Procedure)
+       [dbo].[spAdmin_GetByID] (Procedure)
+       [dbo].[spAdminLogin] (Procedure)
+       [dbo].[spAttendance_CheckIn] (Procedure)
+       [dbo].[spAttendance_CheckOut] (Procedure)
+       [dbo].[spAttendance_GetAllByDate] (Procedure)
+       [dbo].[spAttendance_GetAllByID] (Procedure)
+       [dbo].[spAttendance_GetByIDandDate] (Procedure)
+       [dbo].[spCredentials_Insert] (Procedure)
+       [dbo].[spEmployee_GetAll] (Procedure)
+       [dbo].[spEmployee_GetByID] (Procedure)
+       [dbo].[spEmployee_InsertByEmployee] (Procedure)
+       [dbo].[spEmployee_UpdateByID] (Procedure)
+       [dbo].[spLeaveRecord_Decision] (Procedure)
+       [dbo].[spLeaveRecord_GetByID] (Procedure)
+       [dbo].[spLeaveRecord_InsertRequest] (Procedure)
+       [dbo].[spLeaveRecord_ListOfPendings] (Procedure)
+       [dbo].[spRegularization_Decision] (Procedure)
+       [dbo].[spRegularization_GetByID] (Procedure)
+       [dbo].[spRegularization_InsertRequest] (Procedure)
+       [dbo].[spRegularization_ListOfPendings] (Procedure)
+
+** Supporting actions
